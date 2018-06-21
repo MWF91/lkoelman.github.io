@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome to the homepage of Lucas Koelman on My New Hugo Site</title>
+    <link>https://lkoelman.github.io/</link>
+    <description>Recent content in Welcome to the homepage of Lucas Koelman on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://lkoelman.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Questions</title>
+      <link>https://lkoelman.github.io/comp-neuro/modeling-thoughts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lkoelman.github.io/comp-neuro/modeling-thoughts/</guid>
+      <description>Because asking the right questions is often the most important step.</description>
+    </item>
+    
+    <item>
+      <title>Using the NEURON simulator</title>
+      <link>https://lkoelman.github.io/comp-neuro/neuron-tips/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lkoelman.github.io/comp-neuro/neuron-tips/</guid>
+      <description> Using the NEURON simulator </description>
+    </item>
+    
+    <item>
+      <title>Parameter tuning using MIDI controller</title>
+      <link>https://lkoelman.github.io/comp-neuro/realtime-midi-neuron/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lkoelman.github.io/comp-neuro/realtime-midi-neuron/</guid>
+      <description> MIDI Controller for Parameter Tuning </description>
+    </item>
+    
+    <item>
+      <title>My computational neuroscience bookmarks</title>
+      <link>https://lkoelman.github.io/comp-neuro/bookmarks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lkoelman.github.io/comp-neuro/bookmarks/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
